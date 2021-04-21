@@ -1,5 +1,5 @@
 - 👋 Hola, soy @Dessu1
-- 👀 Estoy interezado en el desarrollo de frontend y realidad virtual
+- 👀 Estoy interezado en el desarrollo de frontend
 - 🌱 Acualmente estoy estudiando ReactJs - Unity - JavaScript
 - 💞️ Estoy interezado en colaborar y ayudar con todo mi conocimiento!
 - 📫 Contactame : brian.stiven.alvarado21@gmail.com
