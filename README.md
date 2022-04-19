@@ -1,6 +1,6 @@
 - 👋 Hola, soy @Dessu1
 - 👀 Estoy interezado en el desarrollo de frontend
-- 🌱 Acualmente estoy estudiando ReactJs - C# - .NetCore - JavaScript
+- 🌱 Acualmente estoy estudiando Angular - C# - .NetCore - JavaScript
 - 💞️ Estoy interezado en colaborar y ayudar con todo mi conocimiento!
 - 📫 Contactame : brian.stiven.alvarado21@gmail.com
 
