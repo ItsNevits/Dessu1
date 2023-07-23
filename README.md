@@ -1,8 +1,7 @@
-- 👋 Hola, soy @Dessu1
-- 👀 Estoy interezado en el desarrollo de frontend
-- 🌱 Acualmente estoy estudiando Angular - C# - .NetCore - JavaScript
+- 👋 Hola
+- 👀 Estoy interezado en el desarrollo de frontend y backend
+- 🌱 Acualmente tengo conocimientos en C# - .Net - JavaScript - WSO2 - Power Platform
 - 💞️ Estoy interezado en colaborar y ayudar con todo mi conocimiento!
-- 📫 Contactame : brian.stiven.alvarado21@gmail.com
 
 
 <a href="https://app.daily.dev/Dessu"><img src="https://api.daily.dev/devcards/2c10daa6979b46ea8d74b8ab8818bc04.png?r=ili" width="400" alt="Dessu's Dev Card"/></a>
